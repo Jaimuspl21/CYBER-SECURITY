@@ -1,2 +1,2 @@
 # web-tic
-Este es un ejemplo de crear una web html 
+Este es un ejemplo:  https://jaimuspl21.github.io/web-tic/

@@ -197,14 +197,17 @@ Worms can modify and delete files, and they can even inject additional malicious
 <p>In its work, the IETF included enhancements to IPv6 compared with IPv4. The IPv6 protocol can handle packets more efficiently, improve performance and increase security. It enables internet service providers to reduce the size of their routing tables by making them more hierarchical.</p>
 <aside id="" class="nativo-promo nativo-promo-1 smartphone"></aside>
 <h2>&nbsp;</h2>  
+<h2 style="text-align: center;"><strong>Digital certificates and certificate authorities</strong></h2>   
+<ul>
+<li>
+<h3><span style="text-decoration: underline;"><span style="color: #ff6600; text-decoration: underline;">Digital certificates</span></span></h3>
+</li>
+</ul>   
    
    
    
    
-   
-   
-   
-<p>-<strong>Digital certificates and certificate authorities</strong></p>
+
    
   
 <p>Link to accessibility standards</p>

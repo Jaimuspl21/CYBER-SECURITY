@@ -136,7 +136,7 @@ Worms can modify and delete files, and they can even inject additional malicious
 <p>Spyware is used for many purposes. Usually it aims to track and sell your internet usage data, capture your credit card or bank account information, or steal your personal identity. How? Spyware monitors your internet activity, tracking your login and password information, and spying on your sensitive information.</p>
 <p>Some types of spyware can install additional software and change the settings on your device, so it&rsquo;s important to use secure passwords and keep your devices updated.</p>
 </div>
-<h2><span style="text-decoration: underline;">Software and hardware to protect networks:</span></h2>
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Software and hardware to protect networks</span></h2>
 <ul>
 <li>
 <h3><span style="text-decoration: underline;"><span style="color: #ff6600; text-decoration: underline;">Types of hardware</span></span></h3>

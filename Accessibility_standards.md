@@ -13,6 +13,6 @@
 
 <p>-Link to Internet Security:</p>
 
-<p><a href="https://jaimuspl21.github.io/CYBER-SECURITY/Internet_security.htm">Internet_security.htm</a></p>
+<p><a href="https://jaimuspl21.github.io/CYBER-SECURITY/Internet_security.html">Internet security</a></p>
 
  </body>

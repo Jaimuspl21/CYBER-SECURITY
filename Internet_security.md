@@ -9,7 +9,7 @@
 
 <h2 style="text-align: center;"><span style="background-color: #ff6600;">Some important aspects to protect your computer and your personal account .</span></h2>
 
-<h2><span style="text-decoration: underline;">Difference between passive and active security threats</span></h2>
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Difference between passive and active security threats</span></h2>
 <img src="https://coredifferences.com/wp-content/uploads/2020/01/Difference-between-Active-and-Passive-Attacks.png" width="500" height="300">
 <p> Active and Passive Attacks are security attacks. In Active attack, an attacker tries to modify the content of the messages. Whereas in Passive attack, an attacker observes the messages, copy them and may use them for malicious purposes.</p>
 <p>Following are the important differences between Active Attack and Passive Attack.</p>
@@ -62,7 +62,7 @@
 </tr>
 </tbody>
 </table>
-<h2><span style="text-decoration: underline;">Malware</span></h2>
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Malware</span></h2>
 <p>- Malware, short for <em>malicious software,</em> is a blanket term for viruses, worms, trojans and other harmful computer programs hackers use to wreak destruction and gain access to sensitive information. We are going to explain these types of malware. It is a catch-all term to refer to any software designed to cause damage to a single computer, server, or computer network." In other words, software is identified as malware based on its intended use, rather than a particular technique or technology used to build it. </p>
 <ul>
 <li>
@@ -172,7 +172,7 @@ Worms can modify and delete files, and they can even inject additional malicious
 <p><a href="https://www.nortonlifelockpartner.com/security-center/malware.html" target="_blank" rel="noopener">Malware</a>, which is short for malicious software, is a broader term that may include everything from spyware to viruses to worms to Trojans. Anti-malware programs are all about finding the newest and latest threats and counteracting them. While an antivirus program is important, the best computer software protection comes from having a combination of both an antivirus and anti-malware program.</p>
 <h3>Security Suites</h3>
 <p>Some major names in computer software protection actually combine some of the above software types to create an all-in-one solution. This is&nbsp;<a href="https://www.nortonlifelockpartner.com/security-center/how-norton-security-protects.html">how Norton Security protects its users</a>. A complex, frequently updated program of this kind can hunt spyware, malware, and viruses at once. It's a very wide umbrella with powerful results.</p>  
-<h2><span style="text-decoration: underline;">Networks protocols</span></h2>  
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Network protocols</span></h2>
 <p>&nbsp;</p>
 <ul>
 <li>

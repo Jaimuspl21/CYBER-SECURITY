@@ -152,7 +152,6 @@ Worms can modify and delete files, and they can even inject additional malicious
 <h4>Security Suites</h4>
 <p>Some major names in computer software protection actually combine some of the above software types to create an all-in-one solution. This is&nbsp;<a href="https://www.nortonlifelockpartner.com/security-center/how-norton-security-protects.html">how Norton Security protects its users</a>. A complex, frequently updated program of this kind can hunt spyware, malware, and viruses at once. It's a very wide umbrella with powerful results.</p>  
 <h2 style="text-align: center;"><span style="text-decoration: underline;">Network protocols</span></h2>
-<p>&nbsp;</p>
 <ul>
 <li>
 <h3><span style="text-decoration: underline; color: #ff6600;">SSL</span></h3>
@@ -173,8 +172,14 @@ Worms can modify and delete files, and they can even inject additional malicious
 <p>Originally, data on the Web was transmitted in plaintext that anyone could read if they intercepted the message. For example, if a consumer visited a shopping website, placed an order, and entered their credit card number on the website, that credit card number would travel across the Internet unconcealed.</p>
 <p>SSL was created to correct this problem and protect user privacy. By encrypting any data that goes between a user and a web server, SSL ensures that anyone who intercepts the data can only see a scrambled mess of characters. The consumer's credit card number is now safe, only visible to the shopping website where they entered it.</p>
 <p>SSL also stops certain kinds of cyber attacks: It authenticates web servers, which is important because attackers will often try to set up fake websites to trick users and steal data. It also prevents attackers from tampering with data in transit, like a tamper-proof seal on a medicine container.</p>   
-   
-   
+<ul>
+<li>
+<h3><span style="text-decoration: underline;"><span style="color: #ff6600; text-decoration: underline;">HTTPS</span></span></h3>
+</li>
+</ul>
+<h4><span style="color: #000000;">What is HTTPS?</span></h4>
+<p>Hypertext transfer protocol secure (HTTPS) is the secure version of HTTP, which is the primary protocol used to send data between a web browser and a website. HTTPS is encrypted in order to increase security of data transfer. This is particularly important when users transmit sensitive data, such as by logging into a bank account, email service, or health insurance provider.</p>
+<p>Any website, especially those that require login credentials, should use HTTPS. In modern web browsers such as Chrome, websites that do not use HTTPS are marked differently than those that are. Look for a green padlock in the URL bar to signify the webpage is secure. Web browsers take HTTPS seriously.</p>
    
    
    

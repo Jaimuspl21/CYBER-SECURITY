@@ -183,8 +183,20 @@ Worms can modify and delete files, and they can even inject additional malicious
 <h4><span style="color: #000000;">What is HTTPS?</span></h4>
 <p>Hypertext transfer protocol secure (HTTPS) is the secure version of HTTP, which is the primary protocol used to send data between a web browser and a website. HTTPS is encrypted in order to increase security of data transfer. This is particularly important when users transmit sensitive data, such as by logging into a bank account, email service, or health insurance provider.</p>
 <p>Any website, especially those that require login credentials, should use HTTPS. In modern web browsers such as Chrome, websites that do not use HTTPS are marked differently than those that are. Look for a green padlock in the URL bar to signify the webpage is secure. Web browsers take HTTPS seriously.</p>
-   
-   
+<ul>
+<li>
+<h3><span style="text-decoration: underline;"><span style="color: #ff6600; text-decoration: underline;">IPv6</span></span></h3>
+</li>
+</ul>   
+<h4>What is IPv6 and why is it important?</h4>
+<p>IPv6 is the latest version of the Internet Protocol, which identifies devices across the internet so they can be located. Every device that uses the internet is identified through its own IP address in order for internet communication to work. In that respect, it&rsquo;s just like the street addresses and zip codes you need to know in order to mail a letter.</p>
+<img src="https://images.idgesg.net/images/article/2017/11/ipv6newip-100740801-large.jpg" width="500"   height="300">
+<p>The previous version, IPv4, uses a 32-bit addressing scheme to support 4.3 billion devices, which was thought to be enough. However, the growth of the internet, personal computers, smartphones and now Internet of Things devices proves that the world needed more addresses.</p>
+<p>Fortunately, the Internet Engineering Task Force (IETF) recognized this 20 years ago. In 1998 it created IPv6, which instead uses 128-bit addressing to support approximately 340 trillion trillion (or 2 to the 128th power, if you like). Instead of the IPv4 address method of four sets of one- to three-digit numbers, IPv6 uses eight groups of four hexadecimal digits, separated by colons.</p>
+<h4>What are the benefits of IPv6?</h4>
+<p>In its work, the IETF included enhancements to IPv6 compared with IPv4. The IPv6 protocol can handle packets more efficiently, improve performance and increase security. It enables internet service providers to reduce the size of their routing tables by making them more hierarchical.</p>
+<aside id="" class="nativo-promo nativo-promo-1 smartphone"></aside>
+<h2>&nbsp;</h2>  
    
    
    

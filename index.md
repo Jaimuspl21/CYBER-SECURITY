@@ -15,8 +15,8 @@
 <li>
 <h3><span style="color: #ff0000;">INTERNET SECURITY</span></h3>
 
-<p><a href="Internet_security.html">Internet_security.htm</a></p>
-<p><a href="Accessibility_standards.html">Accessibility_standards.htm</a></p>
+<p><a href="Internet_security.html">Internet_security.html</a></p>
+
 
    </body>
 

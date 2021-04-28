@@ -109,15 +109,6 @@ Worms can modify and delete files, and they can even inject additional malicious
 <li>
 <p><strong>Trojan-Downloader</strong>&nbsp;<br />Trojan-Downloaders can download and install new versions of malicious programs onto your computer &ndash; including Trojans and adware.</p>
 </li>
-<li>
-<p><strong>Trojan-Dropper</strong>&nbsp;<br />These programs are used by hackers in order to install Trojans and / or viruses &ndash; or to prevent the detection of malicious programs. Not all antivirus programs are capable of scanning all of the components inside this type of Trojan.</p>
-</li>
-<li>
-<p><strong>Trojan-FakeAV</strong>&nbsp;<br />Trojan-FakeAV programs simulate the activity of antivirus software. They are designed to extort money from you &ndash; in return for the detection and removal of threats&hellip; even though the threats that they report are actually non-existent.</p>
-</li>
-<li>
-<p><strong>Trojan-GameThief&nbsp;</strong><br />This type of program steals user account information from online gamers.</p>
-</li>
 <ul>
 <li>
 <h3><span style="text-decoration: underline;"><span style="color: #ff6600; text-decoration: underline;">Spyware</span></span></h3>

@@ -64,7 +64,7 @@
 </li>
 </ul>
 <p>- A&nbsp;computer virus is a type of malicious code or program written to alter the way a computer operates and is designed to spread from one computer to another. A virus operates by inserting or attaching itself to a legitimate program or document that supports macros in order to execute its code. In the process, a virus has the potential to cause unexpected or damaging effects, such as harming the system software by corrupting or destroying data.</p>
-<img src="https://www.ceupe.com/images/easyblog_articles/2447/VIRUS.jpg" width="400"  height="250">
+<img src="https://www.ceupe.com/images/easyblog_articles/2447/VIRUS.jpg" width="500"  height="300">
 <p><strong>The signs of a computer virus are:</strong></p>
 <li><strong>Frequent pop-up windows.</strong>&nbsp;Pop-ups might encourage you to visit unusual sites. Or they might prod you to download antivirus or other software programs.</li>
 <li><strong>Changes to your homepage.</strong>&nbsp;Your usual homepage may change to another website, for instance. Plus, you may be unable to reset it.</li>
@@ -154,7 +154,7 @@ Worms can modify and delete files, and they can even inject additional malicious
 <h2 style="text-align: center;"><span style="text-decoration: underline;">Network protocols</span></h2>
 <p>A network protocol is an established set of rules that determine how data is transmitted between different devices in the same network. Essentially, it allows connected devices to communicate with each other, regardless of any differences in their internal processes, structure or design. Network protocols are the reason you can easily communicate with people all over the world, and thus play a critical role in modern digital communications.</p>
 <p>Similar to the way that speaking the same language simplifies communication between two people, network protocols make it possible for devices to interact with each other because of predetermined rules built into devices&rsquo; software and hardware.</p>
-<img src="https://sites.google.com/site/networking1cis101/_/rsrc/1453407069174/a3--network-protocols-and-communicatons/Capture.PNG"  width="400"   height="250">   
+<img src="https://sites.google.com/site/networking1cis101/_/rsrc/1453407069174/a3--network-protocols-and-communicatons/Capture.PNG"  width="500"   height="300">   
 <ul>
 <li>
 <h3><span style="text-decoration: underline; color: #ff6600;">SSL</span></h3>

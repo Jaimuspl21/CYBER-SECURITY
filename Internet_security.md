@@ -210,7 +210,7 @@ Worms can modify and delete files, and they can even inject additional malicious
   
 <p>Link to accessibility standards</p>
 
-<p><a href="https://jaimuspl21.github.io/CYBER-SECURITY/Accessibility_standards.htm">Accessibility_standards.htm</a></p>
+<p><a href="https://jaimuspl21.github.io/CYBER-SECURITY/Accessibility_standards.html">Accessibility_standards.htm</a></p>
 
 
 

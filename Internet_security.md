@@ -63,8 +63,9 @@
 <h3><strong><span style="text-decoration: underline;"><span style="color: #ff6600; text-decoration: underline;">Virus</span></span></strong></h3>
 </li>
 </ul>
-<p>- A&nbsp;computer virus is a type of malicious code or program written to alter the way a computer operates and is designed to spread from one computer to another. A virus operates by inserting or attaching itself to a legitimate program or document that supports macros in order to execute its code. In the process, a virus has the potential to cause unexpected or damaging effects, such as harming the system software by corrupting or destroying data.<p><strong>The signs of a computer virus are:</strong></p>
+<p>- A&nbsp;computer virus is a type of malicious code or program written to alter the way a computer operates and is designed to spread from one computer to another. A virus operates by inserting or attaching itself to a legitimate program or document that supports macros in order to execute its code. In the process, a virus has the potential to cause unexpected or damaging effects, such as harming the system software by corrupting or destroying data.</p>
 <img src="https://www.ceupe.com/images/easyblog_articles/2447/VIRUS.jpg" width="400"  height="250">
+<p><strong>The signs of a computer virus are:</strong></p>
 <li><strong>Frequent pop-up windows.</strong>&nbsp;Pop-ups might encourage you to visit unusual sites. Or they might prod you to download antivirus or other software programs.</li>
 <li><strong>Changes to your homepage.</strong>&nbsp;Your usual homepage may change to another website, for instance. Plus, you may be unable to reset it.</li>
 <li><strong>Mass emails being sent from your email account.</strong>&nbsp;A criminal may take control of your account or send emails in your name from another infected computer.</li>

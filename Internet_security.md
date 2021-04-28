@@ -141,15 +141,15 @@ Worms can modify and delete files, and they can even inject additional malicious
 </li>
 </ul>
  <p>There are many different types of Internet security software out there, and it can be a dizzying industry to a newcomer. New customers ask themselves, &ldquo;What kind of computer protection software do I need?&rdquo; But figuring that out also requires a basic knowledge of&nbsp;<a href="https://www.nortonlifelockpartner.com/security-center/computer-viruses.html" target="_blank" rel="noopener">viruses</a>&nbsp;and&nbsp;<a href="https://www.nortonlifelockpartner.com/security-center/vulnerabilities.html">vulnerabilities</a>. There are many types of ways you and your computer can be attacked, and there are many types of programs that can help build up a proper defense.</p>
-<h3>Firewalls</h3>
+<h4>Firewalls</h4>
 <p>Firewalls are one of the oldest types of Internet security software out there. Those who own a PC running Windows XP SP2 or newer already have a built-in, default firewall from Microsoft. Older or differing types of computers may need a unique firewall. A firewall simply attempts to control incoming and outgoing traffic between networks. There are two types: a hardware component, found in a router, and a software component. Both protect the network and prevent the spread of a virus within the network.</p>
-<h3>Antivirus</h3>
+<h4>Antivirus</h4>
 <p>Antivirus software does what it sounds like; it seeks out and destroys viruses. Viruses are programs or bits of code that are loaded onto one's computer without the user knowing or wanting them. Because there are many types of viruses, computer virus protection software options became more and more complex over the years. These programs are utilities that hunt down issues on your hard disk and fix any that are found. They often have an auto-update capability, which enables them to stay up to date against current threats. They either have a dictionary of known issues that they hunt for or they monitor all programs and flag suspicious behavior.</p>
-<h3>Anti-Spyware</h3>
+<h4>Anti-Spyware</h4>
 <p>Spyware is different than viruses. Spyware is software that gathers your information (as though it is &ldquo;spying&rdquo; on you) through an Internet connection. Users often accidentally install spyware when trying to install some other free software. The program gathers information to sell back to advertisers, marketers, or other parties interested in your information. Thus, anti-spyware options are often separate options for computer protection software.</p>
-<h3>Anti-Malware</h3>
+<h4>Anti-Malware</h4>
 <p><a href="https://www.nortonlifelockpartner.com/security-center/malware.html" target="_blank" rel="noopener">Malware</a>, which is short for malicious software, is a broader term that may include everything from spyware to viruses to worms to Trojans. Anti-malware programs are all about finding the newest and latest threats and counteracting them. While an antivirus program is important, the best computer software protection comes from having a combination of both an antivirus and anti-malware program.</p>
-<h3>Security Suites</h3>
+<h4>Security Suites</h4>
 <p>Some major names in computer software protection actually combine some of the above software types to create an all-in-one solution. This is&nbsp;<a href="https://www.nortonlifelockpartner.com/security-center/how-norton-security-protects.html">how Norton Security protects its users</a>. A complex, frequently updated program of this kind can hunt spyware, malware, and viruses at once. It's a very wide umbrella with powerful results.</p>  
 <h2 style="text-align: center;"><span style="text-decoration: underline;">Network protocols</span></h2>
 <p>&nbsp;</p>
@@ -158,11 +158,11 @@ Worms can modify and delete files, and they can even inject additional malicious
 <h3><span style="text-decoration: underline; color: #ff6600;">SSL</span></h3>
 </li>
 </ul>
-<h3 class="learning-content-h2 learning-content-h2--margin-top-16px">What is SSL?</h3>
+<h4 class="learning-content-h2 learning-content-h2--margin-top-16px">What is SSL?</h4>
 <p>SSL, or Secure Sockets Layer, is an&nbsp;<a href="https://www.cloudflare.com/learning/ssl/what-is-encryption/">encryption</a>-based Internet security&nbsp;<a href="https://www.cloudflare.com/learning/network-layer/what-is-a-protocol/">protocol</a>. It was first developed by Netscape in 1995 for the purpose of ensuring privacy, authentication, and data integrity in Internet communications. SSL is the predecessor to the modern&nbsp;<a href="https://www.cloudflare.com/learning/ssl/transport-layer-security-tls/">TLS</a>&nbsp;encryption used today.</p>
 <p>A website that implements SSL/TLS has "<a href="https://www.cloudflare.com/learning/ssl/what-is-https/">HTTPS</a>" in its URL instead of "<a href="https://www.cloudflare.com/learning/ddos/glossary/hypertext-transfer-protocol-http/">HTTP</a>."</p>
 <p><a href="https://images.app.goo.gl/BqHZds8yExbcWpBG7"><img class="responsive-image" src="https://www.cloudflare.com/img/learning/security/glossary/what-is-ssl/http-vs-https.svg" alt="HTTP vs HTTPS" /></a></p>
-<h3 class="learning-content-h2">How does SSL/TLS work?</h3>
+<h4 class="learning-content-h2">How does SSL/TLS work?</h4>
 <ul>
 <li>In order to provide a high degree of&nbsp;<a href="https://www.cloudflare.com/learning/privacy/what-is-data-privacy/">privacy</a>, SSL encrypts data that is transmitted across the web. This means that anyone who tries to intercept this data will only see a garbled mix of characters that is nearly impossible to decrypt.</li>
 <li>SSL initiates an&nbsp;<strong>authentication</strong>&nbsp;process called a&nbsp;<a href="https://www.cloudflare.com/learning/ssl/what-happens-in-a-tls-handshake/">handshake</a>&nbsp;between two communicating devices to ensure that both devices are really who they claim to be.</li>

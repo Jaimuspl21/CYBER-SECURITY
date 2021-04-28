@@ -190,7 +190,7 @@ Worms can modify and delete files, and they can even inject additional malicious
 <li>SSL also digitally signs data in order to provide&nbsp;<strong>data integrity</strong>, verifying that the data is not tampered with before reaching its intended recipient.</li>
 </ul>
 <p>There have been several iterations of SSL, each more secure than the last. In 1999 SSL was updated to become TLS.</p>
-<h2 class="learning-content-h2">Why is SSL/TLS important?</h2>
+<h3 class="learning-content-h3">Why is SSL/TLS important?</h3>
 <p>Originally, data on the Web was transmitted in plaintext that anyone could read if they intercepted the message. For example, if a consumer visited a shopping website, placed an order, and entered their credit card number on the website, that credit card number would travel across the Internet unconcealed.</p>
 <p>SSL was created to correct this problem and protect user privacy. By encrypting any data that goes between a user and a web server, SSL ensures that anyone who intercepts the data can only see a scrambled mess of characters. The consumer's credit card number is now safe, only visible to the shopping website where they entered it.</p>
 <p>SSL also stops certain kinds of cyber attacks: It authenticates web servers, which is important because attackers will often try to set up fake websites to trick users and steal data. It also prevents attackers from tampering with data in transit, like a tamper-proof seal on a medicine container.</p>   

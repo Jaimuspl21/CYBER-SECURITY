@@ -224,7 +224,9 @@ Worms can modify and delete files, and they can even inject additional malicious
 <h4><strong>What is a certificate authorities?</strong></h4>
 <p>Certificate Authorities, or Certificate Authorities / CAs, issue Digital Certificates. Digital Certificates are verifiable small data files that contain identity credentials to help websites, people, and devices represent their authentic online identity (authentic because the CA has verified the identity). CAs play a critical role in how the Internet operates and how transparent, trusted transactions can take place online. CAs issue millions of Digital Certificates each year, and these certificates are used to protect information, encrypt billions of transactions, and enable secure communication.</p>
 <p>&nbsp;</p>   
-   
+<h4 id="tw-target-text" class="tw-data-text tw-text-large XcVN5d tw-ta" dir="ltr" style="text-align: center;" data-placeholder="Traducci&oacute;n"><span style="color: #ff0000;"><em><strong><span class="Y2IQFc" lang="en">To understand the internet security web in a more simple and dynamic way, I recommend you watch this video that collects the main elements of computer security</span></strong></em></span></h4>   
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bToocxcmyqQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
    
 
    
@@ -236,9 +238,6 @@ Worms can modify and delete files, and they can even inject additional malicious
 
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d50301.01243775856!2d-1.1519825455101693!3d38.00481557917647!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xfb5814448fe17cef!2sCibinar!5e0!3m2!1ses!2ses!4v1615503606447!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bToocxcmyqQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 
 </body>

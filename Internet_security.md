@@ -1,8 +1,3 @@
-<style>
-   body {
- background-color: rgb(67,209,115);
-}
-</style>
 
 
 <h1 style="text-align: center;"><span style="background-color: #33cccc;">INTERNET SECURITY</span></h>

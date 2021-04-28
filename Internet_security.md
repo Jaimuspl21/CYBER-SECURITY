@@ -174,6 +174,11 @@ Worms can modify and delete files, and they can even inject additional malicious
 <p>Some major names in computer software protection actually combine some of the above software types to create an all-in-one solution. This is&nbsp;<a href="https://www.nortonlifelockpartner.com/security-center/how-norton-security-protects.html">how Norton Security protects its users</a>. A complex, frequently updated program of this kind can hunt spyware, malware, and viruses at once. It's a very wide umbrella with powerful results.</p>  
 <h2><span style="text-decoration: underline;">Networks protocols</span></h2>  
 <p>&nbsp;</p>
+<ul>
+<li>
+<h3><span style="text-decoration: underline; color: #ff6600;">SSL</span></h3>
+</li>
+</ul>
 <h3 class="learning-content-h2 learning-content-h2--margin-top-16px">What is SSL?</h3>
 <p>SSL, or Secure Sockets Layer, is an&nbsp;<a href="https://www.cloudflare.com/learning/ssl/what-is-encryption/">encryption</a>-based Internet security&nbsp;<a href="https://www.cloudflare.com/learning/network-layer/what-is-a-protocol/">protocol</a>. It was first developed by Netscape in 1995 for the purpose of ensuring privacy, authentication, and data integrity in Internet communications. SSL is the predecessor to the modern&nbsp;<a href="https://www.cloudflare.com/learning/ssl/transport-layer-security-tls/">TLS</a>&nbsp;encryption used today.</p>
 <p>A website that implements SSL/TLS has "<a href="https://www.cloudflare.com/learning/ssl/what-is-https/">HTTPS</a>" in its URL instead of "<a href="https://www.cloudflare.com/learning/ddos/glossary/hypertext-transfer-protocol-http/">HTTP</a>."</p>

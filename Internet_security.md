@@ -221,6 +221,11 @@ Worms can modify and delete files, and they can even inject additional malicious
 <li><strong>Confidentiality</strong>: Digital certificates solve what has arguably become the biggest problem of the internet&mdash;the fact that it was not designed with privacy in mind&mdash;by allowing two parties to communicate privately across a public network.</li>
 <li><strong>Identification</strong>: Digital certificates clearly identify the communicating parties and prove that they are really who they present themselves to be.</li>
 </ul>   
+<ul>
+<li>
+<h3><span style="text-decoration: underline;"><span style="color: #ff6600; text-decoration: underline;">Certificate authorities</span></span></h3>
+</li>
+</u
 <h4><strong>What is a certificate authorities?</strong></h4>
 <p>Certificate Authorities, or Certificate Authorities / CAs, issue Digital Certificates. Digital Certificates are verifiable small data files that contain identity credentials to help websites, people, and devices represent their authentic online identity (authentic because the CA has verified the identity). CAs play a critical role in how the Internet operates and how transparent, trusted transactions can take place online. CAs issue millions of Digital Certificates each year, and these certificates are used to protect information, encrypt billions of transactions, and enable secure communication.</p>
 <p>&nbsp;</p>   

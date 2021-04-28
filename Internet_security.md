@@ -89,6 +89,7 @@ Worms can modify and delete files, and they can even inject additional malicious
 </li>
 </ul>
 <p>A Trojan horse or Trojan is a type of malware that is often disguised as legitimate software. Trojans can be employed by cyber-thieves and hackers trying to gain access to users' systems. Users are typically tricked by some form of social engineering into loading and executing Trojans on their systems. Once activated, Trojans can enable cyber-criminals to spy on you, steal your sensitive data, and gain backdoor access to your system.&nbsp;</p>
+<img src="https://incuatro.com/wp-content/uploads/2019/07/que-es-un-virus-troyano.jpg"  width="500"  height="300">
 <p>Trojans are classified according to the type of actions that they can perform on your computer:</p>
 <ul>
 <li>
@@ -122,6 +123,7 @@ Worms can modify and delete files, and they can even inject additional malicious
 <p>Some types of spyware can install additional software and change the settings on your device, so it&rsquo;s important to use secure passwords and keep your devices updated.</p>
 </div>
 <h2 style="text-align: center;"><span style="text-decoration: underline;">Software and hardware to protect networks</span></h2>
+<img src="http://2.bp.blogspot.com/-HtC79OOJgko/VTq8qNB_apI/AAAAAAAAAC4/dKcQQjMRCJ4/s1600/harware%2Bsofware.png"  width="500"   height="300">
 <ul>
 <li>
 <h3><span style="text-decoration: underline;"><span style="color: #ff6600; text-decoration: underline;">Types of hardware</span></span></h3>

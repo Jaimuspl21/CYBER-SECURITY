@@ -10,8 +10,7 @@
 <ol>
 <li>
 <h3><span style="color: #ff0000;">ACCESSIBILITY STANDARDS</span></h3>
-
-<p><a href="https://jaimuspl21.github.io/CYBER-SECURITY/Accessibility_standards.htm">Accessibility_standards.htm</a></p>
+<p><a href="Accessibility_standards.html">Accessibility_standards.htm</a></p>
 </li>
 <li>
 <h3><span style="color: #ff0000;">INTERNET SECURITY</span></h3>
@@ -20,3 +19,4 @@
 
 
    </body>
+https://jaimuspl21.github.io/CYBER-SECURITY/Accessibility_standards.htm">Accessibility_standards.htm

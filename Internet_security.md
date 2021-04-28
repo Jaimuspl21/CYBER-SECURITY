@@ -203,7 +203,22 @@ Worms can modify and delete files, and they can even inject additional malicious
 <h3><span style="text-decoration: underline;"><span style="color: #ff6600; text-decoration: underline;">Digital certificates</span></span></h3>
 </li>
 </ul>   
-   
+<h4><strong>What is a digital certificate?</strong></h4>
+<p>A&nbsp;Digital Certificate&nbsp;is an electronic "password" that allows a person, organizaion to exchange data securely over the Internet using the public key infrastructure (PKI). Digital Certificate is also known as a&nbsp;public key certificate&nbsp;or&nbsp;identity certificate.</p>
+<img src="https://cdn.educba.com/academy/wp-content/uploads/2019/11/Digital-Certificates.png" width="500"  height="300">
+<p>There are three main types of digital certificates used on the internet to authenticate web servers and web browsers:</p>
+<ul>
+<li><strong>Domain Validated (DV SSL) certificates</strong>: Popular among smaller businesses and website owners, a DV SSL certificate demonstrates that its holder has the right to use the associated domain name, but they don&rsquo;t guarantee who the holder of the certificate is.</li>
+<li><strong>Organization Validated (OV SSL) certificates</strong>: As the name suggests, an OV SSL certificate provides assurances about the holder of the certificate, giving businesses the opportunity to build trust with their customers.</li>
+<li><strong>Extended Validation (EV SSL) certificates</strong>: Conforming to the X.509 standard, an EV SSL certificate proves the legal entity of the owner. It is signed by a Certificate Authority key that can issue EV certificates. EV SSL certificates are used by e-commerce websites, governments, and businesses and organizations in highly regulated industries.</li>
+</ul>
+<h4>Benefits of Using a Digital Certificate</h4>
+<p>Certificate-based authentication offers many benefits that make it an essential part of any modern cybersecurity strategy. The benefits include:</p>
+<ul>
+<li><strong>Integrity</strong>: With digital certificates, it&rsquo;s not possible to intentionally or unintentionally tamper with the message en route because any such attempt would be instantly discovered.</li>
+<li><strong>Confidentiality</strong>: Digital certificates solve what has arguably become the biggest problem of the internet&mdash;the fact that it was not designed with privacy in mind&mdash;by allowing two parties to communicate privately across a public network.</li>
+<li><strong>Identification</strong>: Digital certificates clearly identify the communicating parties and prove that they are really who they present themselves to be.</li>
+</ul>   
    
    
    

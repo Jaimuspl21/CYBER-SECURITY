@@ -1,6 +1,5 @@
 
-
-<h1 style="text-align: center;"><span style="background-color: #33cccc;">INTERNET SECURITY</span></h>
+<h1 style="text-align: center;"><span style="background-color: #000000; color: #ffffff;">INTERNET SECURITY</span></h1>
 
 <h2 style="text-align: center;"><span style="background-color: #ff6600;">Some important aspects to protect your computer and your personal account .</span></h2>
 

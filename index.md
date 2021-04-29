@@ -8,21 +8,17 @@
 </li>
 </ul>
 <p><a href="https://jaimuspl21.github.io/CYBER-SECURITY/Accessibility_standards.html">Accessibility standards</a></p>
-<li>
 <ul>
 <li>
 <h3><span style="background-color: #ff0000; color: #ffffff;">INTERNET SECURITY</span></h3>
 </li>
 </ul>
 <p><a href="https://jaimuspl21.github.io/CYBER-SECURITY/Internet_security.html">Internet security</a></p>
-<ol>
 <li>
 <ul>
-<li>
 <h3><span style="background-color: #ff0000; color: #ffffff;">OBJECT ORIENTED PROGRAMMING VS STRUCTURED PROGRAMMING</span></h3>
 </li>
 </ul>
 <p><a href="https://jaimuspl21.github.io/CYBER-SECURITY/Obj_oriented_programming_vs_structured_programming.html">Object oriented programming vs structured programming</a></p>  
-</li>
-</ol>
+
 

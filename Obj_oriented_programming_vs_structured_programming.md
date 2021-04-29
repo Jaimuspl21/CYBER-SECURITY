@@ -74,3 +74,5 @@
 <li><strong>Microservice programming</strong> focuses on creating modules that do not store data internally, and so are scalable and resilient in cloud deployment.</li>
 <li><strong>Functional programming</strong>, technically, means that modules are written from functions, and that these functions' outputs are derived only from their inputs. Designed for serverless computing, the definition of functional programming has since expanded to be largely synonymous with microservices.</li>
 </ul>
+<h2><strong><span style="text-decoration: underline;">Differences between OOP and Structured programming</span></strong></h2>
+

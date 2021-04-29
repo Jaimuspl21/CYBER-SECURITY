@@ -52,6 +52,7 @@
 </div>
 </div>
 </div>
+<h2 style="text-align: center;"><span style="text-decoration: underline;">What is Structured programming?</span></h2>
 <h3><span style="text-decoration: underline;"><span style="color: #ff6600; text-decoration: underline;">What is Structured programming?</span></span></h3>
 <p>&nbsp;</p>
 <p>Structured programming (sometimes known as&nbsp;<em>modular programming</em>) is a programming paradigm that facilitates the creation of programs with readable code and reusable components. All modern programming languages support structured programming, but the mechanisms of support, like the&nbsp;<a href="https://whatis.techtarget.com/definition/syntax">syntax</a>&nbsp;of the programming languages, varies.</p>

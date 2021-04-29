@@ -16,7 +16,7 @@
 <div class="">
 <div class="markdown-container-div Markdown__MarkdownContainerDiv-sc-1j2yuel-5 hwDRqT">
 <div class="markdownViewer Markdown__Viewer-sc-1j2yuel-1 gvyjDX" role="none">
-<img src="https://cdn.ttgtmedia.com/rms/onlineimages/whatis-object_oriented_programming_half_column_mobile.png" width="500"  height="350"
+<img src="https://cdn.ttgtmedia.com/rms/onlineimages/whatis-object_oriented_programming_half_column_mobile.png" width="500"  height="350">
 <h3><span style="text-decoration: underline; color: #ff6600;">Benefits of OOP</span></h3>
 <ul>
 <li>OOP models complex things as reproducible, simple structures</li>

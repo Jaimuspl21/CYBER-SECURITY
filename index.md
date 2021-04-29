@@ -17,6 +17,10 @@
 
 <p><a href="https://jaimuspl21.github.io/CYBER-SECURITY/Internet_security.html">Internet security</a></p>
 
+<ol>
+<li>
 <h3><span style="color: #ff0000;">OBJECT ORIENTED PROGRAMMING VS STRUCTURED PROGRAMMING</span></h3>
+</li>
+</ol>
 <p><a href="https://jaimuspl21.github.io/CYBER-SECURITY/Obj_oriented_programming_vs_structured_programming.html">Object oriented programming vs structured programming</a></p>  
 

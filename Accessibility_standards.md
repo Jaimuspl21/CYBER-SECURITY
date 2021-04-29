@@ -21,7 +21,11 @@
 <p>Each of the in total 65 WCAG 1.0 checkpoints has an assigned priority level based on the<br />checkpoint's impact on accessibility:<br /><span style="text-decoration: underline;">-Priority 1:</span> Web developers must satisfy these requirements, otherwise it will be<br />impossible for one or more groups to access the Web content. Conformance to this<br />level is described as A.</p>
 <p><span style="text-decoration: underline;">-Priority 2:</span> Web developers should satisfy these requirements, otherwise some<br />groups will find it difficult to access the Web content. Conformance to this level is<br />described as AA or Double-A.<br /><span style="text-decoration: underline;">-Priority 3:</span> Web developers may satisfy these requirements to make it easier for<br />some groups to access the Web content. Conformance to this level is described<br />as AAA or Triple-A</p>
 <ul>
-<h4><span style="text-decoration: underline; color: #ff6600;">WCAG Samurai</span></h4>
+<ul>
+<li>
+<h4><span style="text-decoration: underline;"><span style="color: #ff6600; text-decoration: underline;">WCAG Samurai</span></span></h4>
+</li>
+</ul>
 </ul>
 <p>In February 2008, The WCAG Samurai, a group of developers independent of the W3C,<br />published corrections for, and extensions to, the WCAG 1.0.</p>
 <h3 style="text-align: center;"><strong><span style="text-decoration: underline;">WCAG 2.0</span></strong></h3>

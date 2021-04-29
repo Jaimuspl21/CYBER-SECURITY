@@ -59,7 +59,4 @@
 <p><strong>Criticism of WAI guidelines</strong></p>
 <p>There has been criticism of the W3C process, claiming that it does not sufficiently put the<br />user at the heart of the process. There was a formal objection to WCAG's original claim that<br />WCAG 2.0 will address requirements for people with learning disabilities and cognitive<br />limitations headed by Lisa Seeman and signed by 40 organisations and people. In articles<br />such as "WCAG 2.0: The new W3C guidelines evaluated", "To Hell with WCAG 2.0" and<br />"Testability Costs Too Much", the WAI has been criticised for allowing WCAG 1.0 to get<br />increasingly out of step with today's technologies and techniques for creating and<br />consuming web content, for the slow pace of development of WCAG 2.0, for making the<br />new guidelines difficult to navigate and understand, and other argued failings.<br />In Spain, UNE 139803 is the norm entrusted to regulate web accessibility. This standard is<br />based on Web Content Accessibility Guidelines 1.0.</p>
 
-<p><a href="https://jaimuspl21.github.io/CYBER-SECURITY/Internet_security.html">Internet security</a></p>
-
-<p><a href="https://jaimuspl21.github.io/CYBER-SECURITY/index.html">Home page</a></p>
-
+<h2 style="text-align: center;"><span style="background-color: #0000ff; color: #ffffff;"><a style="background-color: #0000ff; color: #ffffff;" href="https://jaimuspl21.github.io/CYBER-SECURITY/index.html">HOME PAGE</a></span></h2>

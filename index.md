@@ -14,8 +14,8 @@
 </li>
 </ul>
 <p><a href="https://jaimuspl21.github.io/CYBER-SECURITY/Internet_security.html">Internet security</a></p>
-<li>
 <ul>
+<li>
 <h3><span style="background-color: #ff0000; color: #ffffff;">OBJECT ORIENTED PROGRAMMING VS STRUCTURED PROGRAMMING</span></h3>
 </li>
 </ul>

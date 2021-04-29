@@ -122,12 +122,6 @@ Worms can modify and delete files, and they can even inject additional malicious
 <p>Spyware is used for many purposes. Usually it aims to track and sell your internet usage data, capture your credit card or bank account information, or steal your personal identity. How? Spyware monitors your internet activity, tracking your login and password information, and spying on your sensitive information.</p>
 <p>Some types of spyware can install additional software and change the settings on your device, so it&rsquo;s important to use secure passwords and keep your devices updated.</p>
 </div>
-<h3 id="tw-target-text" class="tw-data-text tw-text-large XcVN5d tw-ta" dir="ltr" style="text-align: center;" data-placeholder="Traducci&oacute;n"><span style="color: #800080; background-color: #ffcc99;"><em><span class="Y2IQFc" lang="en">If your computer is damaged by any of these malicious malware, you can go to a computer security store like the one indicated at this address:</span></em></span></h3>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d50301.01243775856!2d-1.1519825455101693!3d38.00481557917647!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xfb5814448fe17cef!2sCibinar!5e0!3m2!1ses!2ses!4v1615503606447!5m2!1ses!2ses" width="630" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-
-
-
-
 <h2 style="text-align: center;"><span style="text-decoration: underline;">Software and hardware to protect networks</span></h2>
 <img src="http://2.bp.blogspot.com/-HtC79OOJgko/VTq8qNB_apI/AAAAAAAAAC4/dKcQQjMRCJ4/s1600/harware%2Bsofware.png"  width="630"   height="320">
 <ul>
@@ -160,6 +154,8 @@ Worms can modify and delete files, and they can even inject additional malicious
 <p><a href="https://www.nortonlifelockpartner.com/security-center/malware.html" target="_blank" rel="noopener">Malware</a>, which is short for malicious software, is a broader term that may include everything from spyware to viruses to worms to Trojans. Anti-malware programs are all about finding the newest and latest threats and counteracting them. While an antivirus program is important, the best computer software protection comes from having a combination of both an antivirus and anti-malware program.</p>
 <h4>Security Suites</h4>
 <p>Some major names in computer software protection actually combine some of the above software types to create an all-in-one solution. This is&nbsp;<a href="https://www.nortonlifelockpartner.com/security-center/how-norton-security-protects.html">how Norton Security protects its users</a>. A complex, frequently updated program of this kind can hunt spyware, malware, and viruses at once. It's a very wide umbrella with powerful results.</p>  
+<h3 id="tw-target-text" class="tw-data-text tw-text-large XcVN5d tw-ta" dir="ltr" style="text-align: center;" data-placeholder="Traducci&oacute;n"><span style="color: #800080; background-color: #ffcc99;"><em><span class="Y2IQFc" lang="en">If your computer is damaged by any of these malicious malware, you can go to a computer security store like the one indicated at this address:</span></em></span></h3>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d50301.01243775856!2d-1.1519825455101693!3d38.00481557917647!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xfb5814448fe17cef!2sCibinar!5e0!3m2!1ses!2ses!4v1615503606447!5m2!1ses!2ses" width="630" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 <h2 style="text-align: center;"><span style="text-decoration: underline;">Network protocols</span></h2>
 <p>A network protocol is an established set of rules that determine how data is transmitted between different devices in the same network. Essentially, it allows connected devices to communicate with each other, regardless of any differences in their internal processes, structure or design. Network protocols are the reason you can easily communicate with people all over the world, and thus play a critical role in modern digital communications.</p>
 <p>Similar to the way that speaking the same language simplifies communication between two people, network protocols make it possible for devices to interact with each other because of predetermined rules built into devices&rsquo; software and hardware.</p>

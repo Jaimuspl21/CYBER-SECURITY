@@ -1,4 +1,4 @@
-<h1 style="text-align: center;"><span style="background-color: #000000; color: #ffffff;">ACCESSIBILITY STANDARDS</span></h1>
+<h1 style="text-align: center;"><span style="background-color: #0000ff; color: #ffffff;">ACCESSIBILITY STANDARDS</span></h1>
 <h2 style="text-align: center;"><span style="background-color: #33cccc;">Guidelines on accessible web design</span></h2>
 <h3 style="text-align: center;"><strong><span style="text-decoration: underline;">Web Content Accessibility Guidelines</span></strong></h3>
 <p>In 1999 the Web Accessibility Initiative, a project by the World Wide Web<br />Consortium (W3C), published the Web Content Accessibility Guidelines WCAG 1.0.<br />On 11 December 2008, the WAI released the WCAG 2.0 as a Recommendation. WCAG<br />2.0 aims to be up to date and more technology neutral. Though web designers can choose<br />either standard to follow, the WCAG 2.0 have been widely accepted as the definitive<br />guidelines on how to create accessible websites. Governments are steadily adopting the<br />WCAG 2.0 as the accessibility standard for their own websites.</p>

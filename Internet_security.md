@@ -122,6 +122,12 @@ Worms can modify and delete files, and they can even inject additional malicious
 <p>Spyware is used for many purposes. Usually it aims to track and sell your internet usage data, capture your credit card or bank account information, or steal your personal identity. How? Spyware monitors your internet activity, tracking your login and password information, and spying on your sensitive information.</p>
 <p>Some types of spyware can install additional software and change the settings on your device, so it&rsquo;s important to use secure passwords and keep your devices updated.</p>
 </div>
+<h3 id="tw-target-text" class="tw-data-text tw-text-large XcVN5d tw-ta" dir="ltr" style="text-align: center;" data-placeholder="Traducci&oacute;n"><span style="color: #800080; background-color: #ffcc99;"><em><span class="Y2IQFc" lang="en">If your computer is damaged by any of these malicious malware, you can go to a computer security store like the one indicated at this address:</span></em></span></h3>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d50301.01243775856!2d-1.1519825455101693!3d38.00481557917647!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xfb5814448fe17cef!2sCibinar!5e0!3m2!1ses!2ses!4v1615503606447!5m2!1ses!2ses" width="630" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+
+
+
 <h2 style="text-align: center;"><span style="text-decoration: underline;">Software and hardware to protect networks</span></h2>
 <img src="http://2.bp.blogspot.com/-HtC79OOJgko/VTq8qNB_apI/AAAAAAAAAC4/dKcQQjMRCJ4/s1600/harware%2Bsofware.png"  width="630"   height="320">
 <ul>
@@ -233,17 +239,7 @@ Worms can modify and delete files, and they can even inject additional malicious
 <h4 id="tw-target-text" class="tw-data-text tw-text-large XcVN5d tw-ta" dir="ltr" style="text-align: center;" data-placeholder="Traducci&oacute;n"><span style="color: #ff0000;"><em><strong><span class="Y2IQFc" lang="en">To understand the internet security web in a more simple and dynamic way, I recommend you watch this video that collects the main elements of computer security</span></strong></em></span></h4>   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bToocxcmyqQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-   
-
-   
-  
-<p>Link to accessibility standards</p>
-
-<p><a href="https://jaimuspl21.github.io/CYBER-SECURITY/Accessibility_standards.html">Accessibility standards</a></p>
-<p><a href="https://jaimuspl21.github.io/CYBER-SECURITY/index.html">Home page</a></p>
-
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d50301.01243775856!2d-1.1519825455101693!3d38.00481557917647!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xfb5814448fe17cef!2sCibinar!5e0!3m2!1ses!2ses!4v1615503606447!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<h2 style="text-align: center;"><span style="background-color: #0000ff; color: #ffffff;"><a style="background-color: #0000ff; color: #ffffff;" href="https://jaimuspl21.github.io/CYBER-SECURITY/index.html">HOME PAGE</a></span></h2>   
 
 
 

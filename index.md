@@ -3,22 +3,17 @@
 <h2 style="text-align: center;">WELCOME TO MY WEB, THIS IS A WEB PAGE TO KNOW THE DIFFERENT PROBLEMS ON INTERNET AND HOW TO PROTECT YOUR COMPUTER. WE ARE GOING TO TALK OF SOME DIFFERENT ASPECTS:</h2>
 <h2>&nbsp;</h2>
 <ul>
-<li>
-<h3><span style="background-color: #ff0000; color: #ffffff;">ACCESSIBILITY STANDARDS</span></h3>
+<li style="text-align: left;">
+<h2><span style="background-color: #0000ff; color: #ffffff;"><a style="background-color: #0000ff; color: #ffffff;" href="https://jaimuspl21.github.io/CYBER-SECURITY/Accessibility_standards.html">ACCESSIBILITY STANDARDS</a></span></h2>
 </li>
 </ul>
-<p><a href="https://jaimuspl21.github.io/CYBER-SECURITY/Accessibility_standards.html">Accessibility standards</a></p>
 <ul>
 <li>
-<h3><span style="background-color: #ff0000; color: #ffffff;">INTERNET SECURITY</span></h3>
+<h2><span style="background-color: #000000; color: #ffffff;"><a style="background-color: #000000; color: #ffffff;" href="https://jaimuspl21.github.io/CYBER-SECURITY/Internet_security.html">INTERNET SECURITY</a></span></h2>
 </li>
 </ul>
-<p><a href="https://jaimuspl21.github.io/CYBER-SECURITY/Internet_security.html">Internet security</a></p>
 <ul>
 <li>
-<h3><span style="background-color: #ff0000; color: #ffffff;">OBJECT ORIENTED PROGRAMMING VS STRUCTURED PROGRAMMING</span></h3>
+<h2><span style="background-color: #ff0000; color: #ffffff;"><a style="background-color: #ff0000; color: #ffffff;" href="https://jaimuspl21.github.io/CYBER-SECURITY/Obj_oriented_programming_vs_structured_programming.html">OBJECT ORIENTED PROGRAMMING VS STRUCTURED PROGRAMMING</a></span></h2>
 </li>
 </ul>
-<p><a href="https://jaimuspl21.github.io/CYBER-SECURITY/Obj_oriented_programming_vs_structured_programming.html">Object oriented programming vs structured programming</a></p>  
-
-

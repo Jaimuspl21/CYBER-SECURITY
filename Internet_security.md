@@ -4,7 +4,7 @@
 <h2 style="text-align: center;"><span style="background-color: #ff6600;">Some important aspects to protect your computer and your personal account .</span></h2>
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;">Difference between passive and active security threats</span></h2>
-<img src="https://coredifferences.com/wp-content/uploads/2020/01/Difference-between-Active-and-Passive-Attacks.png" width="500" height="300">
+<img src="https://coredifferences.com/wp-content/uploads/2020/01/Difference-between-Active-and-Passive-Attacks.png" width="630" height="300">
 <p> Active and Passive Attacks are security attacks. In Active attack, an attacker tries to modify the content of the messages. Whereas in Passive attack, an attacker observes the messages, copy them and may use them for malicious purposes.</p>
 <p>Following are the important differences between Active Attack and Passive Attack.</p>
 
@@ -64,7 +64,7 @@
 </li>
 </ul>
 <p>- A&nbsp;computer virus is a type of malicious code or program written to alter the way a computer operates and is designed to spread from one computer to another. A virus operates by inserting or attaching itself to a legitimate program or document that supports macros in order to execute its code. In the process, a virus has the potential to cause unexpected or damaging effects, such as harming the system software by corrupting or destroying data.</p>
-<img src="https://www.ceupe.com/images/easyblog_articles/2447/VIRUS.jpg" width="500"  height="300">
+<img src="https://www.ceupe.com/images/easyblog_articles/2447/VIRUS.jpg" width="630"  height="300">
 <p><strong>The signs of a computer virus are:</strong></p>
 <li><strong>Frequent pop-up windows.</strong>&nbsp;Pop-ups might encourage you to visit unusual sites. Or they might prod you to download antivirus or other software programs.</li>
 <li><strong>Changes to your homepage.</strong>&nbsp;Your usual homepage may change to another website, for instance. Plus, you may be unable to reset it.</li>
@@ -89,7 +89,7 @@ Worms can modify and delete files, and they can even inject additional malicious
 </li>
 </ul>
 <p>A Trojan horse or Trojan is a type of malware that is often disguised as legitimate software. Trojans can be employed by cyber-thieves and hackers trying to gain access to users' systems. Users are typically tricked by some form of social engineering into loading and executing Trojans on their systems. Once activated, Trojans can enable cyber-criminals to spy on you, steal your sensitive data, and gain backdoor access to your system.&nbsp;</p>
-<img src="https://incuatro.com/wp-content/uploads/2019/07/que-es-un-virus-troyano.jpg"  width="500"  height="300">
+<img src="https://incuatro.com/wp-content/uploads/2019/07/que-es-un-virus-troyano.jpg"  width="630"  height="330">
 <p>Trojans are classified according to the type of actions that they can perform on your computer:</p>
 <ul>
 <li>
@@ -123,7 +123,7 @@ Worms can modify and delete files, and they can even inject additional malicious
 <p>Some types of spyware can install additional software and change the settings on your device, so it&rsquo;s important to use secure passwords and keep your devices updated.</p>
 </div>
 <h2 style="text-align: center;"><span style="text-decoration: underline;">Software and hardware to protect networks</span></h2>
-<img src="http://2.bp.blogspot.com/-HtC79OOJgko/VTq8qNB_apI/AAAAAAAAAC4/dKcQQjMRCJ4/s1600/harware%2Bsofware.png"  width="500"   height="300">
+<img src="http://2.bp.blogspot.com/-HtC79OOJgko/VTq8qNB_apI/AAAAAAAAAC4/dKcQQjMRCJ4/s1600/harware%2Bsofware.png"  width="630"   height="320">
 <ul>
 <li>
 <h3><span style="text-decoration: underline;"><span style="color: #ff6600; text-decoration: underline;">Types of hardware</span></span></h3>
@@ -143,7 +143,7 @@ Worms can modify and delete files, and they can even inject additional malicious
 </li>
 </ul>
 <p>There are many different types of Internet security software out there, and it can be a dizzying industry to a newcomer. New customers ask themselves, &ldquo;What kind of computer protection software do I need?&rdquo; But figuring that out also requires a basic knowledge of&nbsp;<a href="https://www.nortonlifelockpartner.com/security-center/computer-viruses.html" target="_blank" rel="noopener">viruses</a>&nbsp;and&nbsp;<a href="https://www.nortonlifelockpartner.com/security-center/vulnerabilities.html">vulnerabilities</a>. There are many types of ways you and your computer can be attacked, and there are many types of programs that can help build up a proper defense.</p>
-<img src="https://www.incibe-cert.es/sites/default/files/styles/listado_315x180/public/contenidos/blog/antivirus.jpg?itok=PfhBxqDB" width="500" height="300">
+<img src="https://www.incibe-cert.es/sites/default/files/styles/listado_315x180/public/contenidos/blog/antivirus.jpg?itok=PfhBxqDB" width="630" height="320">
 <h4>Firewalls</h4>
 <p>Firewalls are one of the oldest types of Internet security software out there. Those who own a PC running Windows XP SP2 or newer already have a built-in, default firewall from Microsoft. Older or differing types of computers may need a unique firewall. A firewall simply attempts to control incoming and outgoing traffic between networks. There are two types: a hardware component, found in a router, and a software component. Both protect the network and prevent the spread of a virus within the network.</p>
 <h4>Antivirus</h4>
@@ -157,7 +157,7 @@ Worms can modify and delete files, and they can even inject additional malicious
 <h2 style="text-align: center;"><span style="text-decoration: underline;">Network protocols</span></h2>
 <p>A network protocol is an established set of rules that determine how data is transmitted between different devices in the same network. Essentially, it allows connected devices to communicate with each other, regardless of any differences in their internal processes, structure or design. Network protocols are the reason you can easily communicate with people all over the world, and thus play a critical role in modern digital communications.</p>
 <p>Similar to the way that speaking the same language simplifies communication between two people, network protocols make it possible for devices to interact with each other because of predetermined rules built into devices&rsquo; software and hardware.</p>
-<img src="https://sites.google.com/site/networking1cis101/_/rsrc/1453407069174/a3--network-protocols-and-communicatons/Capture.PNG"  width="500"   height="300">   
+<img src="https://sites.google.com/site/networking1cis101/_/rsrc/1453407069174/a3--network-protocols-and-communicatons/Capture.PNG"  width="630"   height="330">   
 <ul>
 <li>
 <h3><span style="text-decoration: underline; color: #ff6600;">SSL</span></h3>
@@ -193,7 +193,7 @@ Worms can modify and delete files, and they can even inject additional malicious
 </ul>   
 <h4>What is IPv6 and why is it important?</h4>
 <p>IPv6 is the latest version of the Internet Protocol, which identifies devices across the internet so they can be located. Every device that uses the internet is identified through its own IP address in order for internet communication to work. In that respect, it&rsquo;s just like the street addresses and zip codes you need to know in order to mail a letter.</p>
-<img src="https://images.idgesg.net/images/article/2017/11/ipv6newip-100740801-large.jpg" width="500"   height="300">
+<img src="https://images.idgesg.net/images/article/2017/11/ipv6newip-100740801-large.jpg" width="630"   height="330">
 <p>The previous version, IPv4, uses a 32-bit addressing scheme to support 4.3 billion devices, which was thought to be enough. However, the growth of the internet, personal computers, smartphones and now Internet of Things devices proves that the world needed more addresses.</p>
 <p>Fortunately, the Internet Engineering Task Force (IETF) recognized this 20 years ago. In 1998 it created IPv6, which instead uses 128-bit addressing to support approximately 340 trillion trillion (or 2 to the 128th power, if you like). Instead of the IPv4 address method of four sets of one- to three-digit numbers, IPv6 uses eight groups of four hexadecimal digits, separated by colons.</p>
 <h4>What are the benefits of IPv6?</h4>
@@ -208,7 +208,7 @@ Worms can modify and delete files, and they can even inject additional malicious
 </ul>   
 <h4><strong>What is a digital certificate?</strong></h4>
 <p>A&nbsp;Digital Certificate&nbsp;is an electronic "password" that allows a person, organizaion to exchange data securely over the Internet using the public key infrastructure (PKI). Digital Certificate is also known as a&nbsp;public key certificate&nbsp;or&nbsp;identity certificate.</p>
-<img src="https://cdn.educba.com/academy/wp-content/uploads/2019/11/Digital-Certificates.png" width="500"  height="300">
+<img src="https://cdn.educba.com/academy/wp-content/uploads/2019/11/Digital-Certificates.png" width="630"  height="320">
 <p>There are three main types of digital certificates used on the internet to authenticate web servers and web browsers:</p>
 <ul>
 <li><strong>Domain Validated (DV SSL) certificates</strong>: Popular among smaller businesses and website owners, a DV SSL certificate demonstrates that its holder has the right to use the associated domain name, but they don&rsquo;t guarantee who the holder of the certificate is.</li>

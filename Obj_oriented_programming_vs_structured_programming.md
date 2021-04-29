@@ -74,6 +74,64 @@
 <li><strong>Microservice programming</strong> focuses on creating modules that do not store data internally, and so are scalable and resilient in cloud deployment.</li>
 <li><strong>Functional programming</strong>, technically, means that modules are written from functions, and that these functions' outputs are derived only from their inputs. Designed for serverless computing, the definition of functional programming has since expanded to be largely synonymous with microservices.</li>
 </ul>
-<h2><strong><span style="text-decoration: underline;">Differences between OOP and Structured programming</span></strong></h2>
-
+<h2 style="text-align: center;"><strong><span style="text-decoration: underline;">Differences between OOP and Structured programming</span></strong></h2>
+<p>&nbsp;</p>
+<figure class="table">
+<table>
+<tbody>
+<tr>
+<td>
+<p><strong>Structured Programming &nbsp;</strong></p>
+</td>
+<td>
+<p><strong>Object-Oriented Programming</strong></p>
+</td>
+</tr>
+<tr>
+<td>It is a subset of procedural programming.&nbsp;</td>
+<td>It relies on concept of objects that contain data and code.&nbsp;</td>
+</tr>
+<tr>
+<td>Programs are divided into small programs or functions.&nbsp;</td>
+<td>Programs are divided into objects or entities. &nbsp;</td>
+</tr>
+<tr>
+<td>It is all about facilitating creation of programs with readable code and reusable components. &nbsp;</td>
+<td>It is all about creating objects that usually contain both functions and data. &nbsp;</td>
+</tr>
+<tr>
+<td>Its main aim is to improve and increase quality, clarity, and development time of computer program. &nbsp;</td>
+<td>Its main aim is to improve and increase both quality and productivity of system analysis and design. &nbsp;</td>
+</tr>
+<tr>
+<td>It simply focuses on functions and processes that usually work on data. &nbsp;</td>
+<td>It simply focuses on representing both structure and behavior of information system into tiny or small modules that generally combines data and process both.</td>
+</tr>
+<tr>
+<td>It is a method of organizing, managing and coding programs that can give or provide much easier modification and understanding. &nbsp;</td>
+<td>It is a method in which set of objects can vary dynamically and can execute just by acting and reading to each other. &nbsp;</td>
+</tr>
+<tr>
+<td>In this, methods are written globally and code lines are processed one by one i.e., Run sequentially. &nbsp;</td>
+<td>In this, method works dynamically, make calls as per need of code for certain time. &nbsp;</td>
+</tr>
+<tr>
+<td>It generally follows &ldquo;Top-Down Approach&rdquo;. &nbsp;</td>
+<td>It generally follows &ldquo;Bottom-Up Approach&rdquo;. &nbsp;</td>
+</tr>
+<tr>
+<td>It provides less flexibility and abstraction as compared to object-oriented programming. &nbsp;</td>
+<td>It provides more flexibility and abstraction as compared to structured programming. &nbsp;</td>
+</tr>
+<tr>
+<td>It is more difficult to modify structured program and reuse code as compared to object-oriented programs. &nbsp;</td>
+<td>It is less difficult to modify object-oriented programs and reuse code as compared to structured programs.&nbsp;</td>
+</tr>
+<tr>
+<td>It gives more importance of code.&nbsp;</td>
+<td>It gives more importance to data.&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/498kn--7uLk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

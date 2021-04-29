@@ -1,8 +1,8 @@
 <h1 style="text-align: center;"><span style="background-color: #000000; color: #ffffff;">ACCESSIBILITY STANDARDS</span></h1>
 <h2 style="text-align: center;"><span style="background-color: #33cccc;">Guidelines on accessible web design</span></h2>
-<h3><strong><span style="text-decoration: underline;">Web Content Accessibility Guidelines</span></strong></h3>
+<h3 style="text-align: center;"><strong><span style="text-decoration: underline;">Web Content Accessibility Guidelines</span></strong></h3>
 <p>In 1999 the Web Accessibility Initiative, a project by the World Wide Web<br />Consortium (W3C), published the Web Content Accessibility Guidelines WCAG 1.0.<br />On 11 December 2008, the WAI released the WCAG 2.0 as a Recommendation. WCAG<br />2.0 aims to be up to date and more technology neutral. Though web designers can choose<br />either standard to follow, the WCAG 2.0 have been widely accepted as the definitive<br />guidelines on how to create accessible websites. Governments are steadily adopting the<br />WCAG 2.0 as the accessibility standard for their own websites.</p>
-<h3><strong><span style="text-decoration: underline;">WCAG 1.0</span></strong></h3>
+<h3 style="text-align: center;"><strong><span style="text-decoration: underline;">WCAG 1.0</span></strong></h3>
 <p>The WCAG 1.0 was published and became a W3C recommendation on 5 May 1999. They<br />have since been superseded by WCAG 2.0.<br />WCAG 1.0 consists of 14 guidelines&mdash;each of which describes a general principle of<br />accessible design. Each guideline covers a basic theme of web accessibility and is<br />associated with one or more checkpoints that describe how to apply that guideline to<br />particular webpage features.</p>
 <p>-Guideline 1: Provide equivalent alternatives to auditory and visual content</p>
 <p>-Guideline 2: Don&rsquo;t rely on colour alone</p>
@@ -21,7 +21,7 @@
 <p>Each of the in total 65 WCAG 1.0 checkpoints has an assigned priority level based on the<br />checkpoint's impact on accessibility:<br /><span style="text-decoration: underline;">-Priority 1:</span> Web developers must satisfy these requirements, otherwise it will be<br />impossible for one or more groups to access the Web content. Conformance to this<br />level is described as A.</p>
 <p><span style="text-decoration: underline;">-Priority 2:</span> Web developers should satisfy these requirements, otherwise some<br />groups will find it difficult to access the Web content. Conformance to this level is<br />described as AA or Double-A.<br /><span style="text-decoration: underline;">-Priority 3:</span> Web developers may satisfy these requirements to make it easier for<br />some groups to access the Web content. Conformance to this level is described<br />as AAA or Triple-A</p>
 <ul>
-<li><span style="text-decoration: underline; color: #ff6600;">WCAG Samurai</span></li>
+<h4><span style="text-decoration: underline; color: #ff6600;">WCAG Samurai</span></h4>
 </ul>
 <p>In February 2008, The WCAG Samurai, a group of developers independent of the W3C,<br />published corrections for, and extensions to, the WCAG 1.0.</p>
 <h3 style="text-align: center;"><strong><span style="text-decoration: underline;">WCAG 2.0</span></strong></h3>

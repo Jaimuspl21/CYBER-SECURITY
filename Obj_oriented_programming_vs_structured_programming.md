@@ -135,4 +135,4 @@
 </table>
 </figure>
 <h3 style="text-align: center;"><em><span style="color: #ff0000;">You can also watch this video to understand this topic. It will help you to solve your questions.</span></em></h3>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/498kn--7uLk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="630" height="335" src="https://www.youtube.com/embed/498kn--7uLk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

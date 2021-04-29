@@ -52,4 +52,24 @@
 </div>
 </div>
 </div>
-
+<h3><span style="text-decoration: underline;"><span style="color: #ff6600; text-decoration: underline;">What is Structured programming?</span></span></h3>
+<p>&nbsp;</p>
+<p>Structured programming (sometimes known as&nbsp;<em>modular programming</em>) is a programming paradigm that facilitates the creation of programs with readable code and reusable components. All modern programming languages support structured programming, but the mechanisms of support, like the&nbsp;<a href="https://whatis.techtarget.com/definition/syntax">syntax</a>&nbsp;of the programming languages, varies.</p>
+<p>Where modules or elements of code can be reused from a library, it may also be possible to build structured code using modules written in different languages, as long as they can obey a common module interface or application program interface (<a href="https://searchapparchitecture.techtarget.com/definition/application-program-interface-API">API</a>) specification. However, when modules are reused, it's possible to compromise data security and&nbsp;<a href="https://searchdatamanagement.techtarget.com/definition/data-governance">governance</a>, so it's important to define and enforce a privacy policy controlling the use of modules that bring with them implicit data access rights.</p>
+<p>Structured programming encourages dividing an application program into a hierarchy of modules or autonomous elements, which may, in turn, contain other such elements. Within each element, code may be further structured using blocks of related logic designed to improve readability and maintainability. These may include&nbsp;case, which tests a variable against a set of values;&nbsp;Repeat,&nbsp;while&nbsp;and&nbsp;for, which construct loops that continue until a condition is met. In all structured programming languages, an unconditional transfer of control, or&nbsp;goto&nbsp;statement, is deprecated and sometimes not even available.</p>
+<h3><span style="text-decoration: underline;"><span style="color: #ff6600; text-decoration: underline;">Advantages of structured programming</span></span></h3>
+<p>The primary advantages of structured programming are:</p>
+<ol class="default-list">
+<li>It encourages top-down implementation, which improves both readability and maintainability of code.</li>
+<li>It promotes code reuse, since even internal modules can be extracted and made independent, residents in libraries, described in directories and referenced by many other applications.</li>
+<li>It's widely agreed that development time and code quality are improved through structured programming.</li>
+</ol>
+<p>These advantages are normally seen as compelling, even decisive, and nearly all modern software development employs structured programming.</p>
+<h3><span style="text-decoration: underline;"><span style="color: #ff6600; text-decoration: underline;">Types of structured programming</span></span></h3>
+<p>Structured programming can be divided into three categories, including:</p>
+<p><strong>Procedural programming</strong>. Defines modules as "procedures" or "functions" that are called with a set of parameters to perform a task. A procedural language will begin a process, which is then given data. It is also the most common category and has recently been subdivided into the following:</p>
+<ul class="default-list">
+<li><strong>Service-oriented programming</strong>&nbsp;simply defines reusable modules as "services" with advertised interfaces.</li>
+<li><strong>Microservice programming</strong> focuses on creating modules that do not store data internally, and so are scalable and resilient in cloud deployment.</li>
+<li><strong>Functional programming</strong>, technically, means that modules are written from functions, and that these functions' outputs are derived only from their inputs. Designed for serverless computing, the definition of functional programming has since expanded to be largely synonymous with microservices.</li>
+</ul>

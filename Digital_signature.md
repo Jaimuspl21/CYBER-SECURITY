@@ -3,7 +3,7 @@
 <img src="https://www.globalsign.com/application/files/3515/8885/5116/electronic_signature_vs_digital_signature.jpg"  width="630"   height="330">
 <section class="common content-area">
 <div class="content-wrap bottom-animated animated middle-animated top-animated">
-<h3><span style="text-decoration: underline;"><span style="color: #ff6600; text-decoration: underline;">What is digital signature</span></span></h3>
+<h3><span style="text-decoration: underline;"><span style="color: #ff6600; text-decoration: underline;">What is digital signature?</span></span></h3>
 <p>A digital signature is exactly what it sounds like a modern alternative to signing documents with paper and pen.</p>
 <p>It uses an advanced mathematical technique to check the authenticity and integrity of digital messages and documents. It guarantees that the contents of a message are not altered in transit and helps us overcome the problem of impersonation and tampering in digital communications.</p>
 <p>Digital signatures also provide additional information such as the origin of the message, status, and consent by the signer.</p>

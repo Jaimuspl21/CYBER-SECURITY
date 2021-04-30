@@ -16,7 +16,7 @@
 <div class="">
 <div class="markdown-container-div Markdown__MarkdownContainerDiv-sc-1j2yuel-5 hwDRqT">
 <div class="markdownViewer Markdown__Viewer-sc-1j2yuel-1 gvyjDX" role="none">
-<img src="https://cdn.ttgtmedia.com/rms/onlineimages/whatis-object_oriented_programming_half_column_mobile.png" width="500"  height="350">
+<img src="https://cdn.ttgtmedia.com/rms/onlineimages/whatis-object_oriented_programming_half_column_mobile.png" width="630"  height="350">
 <h3><span style="text-decoration: underline; color: #ff6600;">Benefits of OOP</span></h3>
 <ul>
 <li>OOP models complex things as reproducible, simple structures</li>
@@ -57,7 +57,7 @@
 <p>Structured programming (sometimes known as&nbsp;<em>modular programming</em>) is a programming paradigm that facilitates the creation of programs with readable code and reusable components. All modern programming languages support structured programming, but the mechanisms of support, like the&nbsp;<a href="https://whatis.techtarget.com/definition/syntax">syntax</a>&nbsp;of the programming languages, varies.</p>
 <p>Where modules or elements of code can be reused from a library, it may also be possible to build structured code using modules written in different languages, as long as they can obey a common module interface or application program interface (<a href="https://searchapparchitecture.techtarget.com/definition/application-program-interface-API">API</a>) specification. However, when modules are reused, it's possible to compromise data security and&nbsp;<a href="https://searchdatamanagement.techtarget.com/definition/data-governance">governance</a>, so it's important to define and enforce a privacy policy controlling the use of modules that bring with them implicit data access rights.</p>
 <p>Structured programming encourages dividing an application program into a hierarchy of modules or autonomous elements, which may, in turn, contain other such elements. Within each element, code may be further structured using blocks of related logic designed to improve readability and maintainability. These may include&nbsp;case, which tests a variable against a set of values;&nbsp;Repeat,&nbsp;while&nbsp;and&nbsp;for, which construct loops that continue until a condition is met. In all structured programming languages, an unconditional transfer of control, or&nbsp;goto&nbsp;statement, is deprecated and sometimes not even available.</p>
-<img src="https://www.codeavail.com/img/structured-programming-help.png"  width="570"  height="300">
+<img src="https://www.codeavail.com/img/structured-programming-help.png"  width="630"  height="330">
 <h3><span style="text-decoration: underline;"><span style="color: #ff6600; text-decoration: underline;">Advantages of structured programming</span></span></h3>
 <p>The primary advantages of structured programming are:</p>
 <ol class="default-list">

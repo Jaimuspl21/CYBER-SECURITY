@@ -37,7 +37,7 @@ DocuSign eSignature is the world’s #1 way to send and sign documents.  Use it
 How does signing digitally work?
 
 With DocuSign eSignature, if you’re the Sender, you send a document for signature in three easy steps:
-<img src="https://zonavalue.com/wp-content/uploads/2019/12/docusign.jpg"  width="630"   height="380">
+<img src="https://zonavalue.com/wp-content/uploads/2019/12/docusign.jpg"  width="630"   height="430">
 Upload your document into the electronic signature application, such as our DocuSign eSignature application.
 Drag in the signature, text and date fields where the recipient needs to take action.
 Click send. The electronic signature application will email a link to the recipient so they can access the document and sign.

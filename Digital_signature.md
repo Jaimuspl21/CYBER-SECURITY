@@ -36,20 +36,21 @@ DocuSign eSignature is the world’s #1 way to send and sign documents.  Use it
 
 How does signing digitally work?
 
-With DocuSign eSignature, if you’re the Sender, you send a document for signature in three easy steps:
+<p><strong>With&nbsp;DocuSign eSignature, if you&rsquo;re the Sender, you send a document for signature in three easy steps:</strong></p>
 <img src="https://zonavalue.com/wp-content/uploads/2019/12/docusign.jpg"  width="630"   height="430">
-Upload your document into the electronic signature application, such as our DocuSign eSignature application.
-Drag in the signature, text and date fields where the recipient needs to take action.
-Click send. The electronic signature application will email a link to the recipient so they can access the document and sign.
-
-If you’re the recipient--or signer--you execute your signature in five simple steps with DocuSign eSignature:
-
-Open the email with a request to digitally sign your document.
-Click the link. Your document should open in an electronic signature tool such as our DocuSign eSignature application.
-Agree to electronic signing. You may be asked to agree to sign. After confirming agreement and if the document was sent via DocuSign eSignature, you should see tags with instructions to Start or Sign.
-Click each tag and follow the instructions to add your electronic signature where required to sign or initial.
-Verify your identity and follow the instructions to adopt your electronic signature.
-
+<ul>
+<li>Upload your document&nbsp;into the electronic signature application, such as our DocuSign eSignature application.</li>
+<li>Drag in the signature, text and date fields where the recipient needs to take action.</li>
+<li>Click send. The electronic signature application will email a link to the recipient so they can access the document and sign.</li>
+</ul>
+<p><strong>If you&rsquo;re the recipient--or signer--you execute your signature in five simple steps with&nbsp;DocuSign eSignature:</strong></p>
+<ul>
+<li>Open the email&nbsp;with a request to digitally sign your document.</li>
+<li>Click the link. Your document should open in an electronic signature tool such as our&nbsp;DocuSign eSignature&nbsp;application.</li>
+<li>Agree to electronic signing. You may be asked to agree to sign. After confirming agreement and if the document was sent via&nbsp;DocuSign eSignature, you should see tags with instructions to Start or Sign.</li>
+<li>Click each tag&nbsp;and follow the instructions to add your electronic signature where required to sign or initial.</li>
+<li>Verify your identity&nbsp;and follow the instructions to adopt your electronic signature.</li>
+</ul>
 
 <h2 style="text-align: center;"><span style="background-color: #0000ff; color: #ffffff;"><a style="background-color: #0000ff; color: #ffffff;" href="https://jaimuspl21.github.io/CYBER-SECURITY/index.html">HOME PAGE</a></span></h2>
 

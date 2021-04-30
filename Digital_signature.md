@@ -26,7 +26,7 @@
 <p>Both cryptographic hashes are compared to check its authenticity. If they match, the document hasn't been tampered with and is considered valid.</p>
 </div>
 </section>
-How to create a digital signature
+<h2 style="text-align: center;"><span style="text-decoration: underline; color: #000000;"><span>How to create a digital signature</span></span></h2>
 
 Digital signatures are a legal way to electronically secure your approval on a document, contract, application or set of documents. Digital signatures can replace your handwritten signature to speed up virtually any paper-driven, manual signature processes.
 
@@ -34,7 +34,7 @@ Digital signatures are more secure as they provide an extra level of security by
 
 DocuSign eSignature is the world’s #1 way to send and sign documents.  Use it to do business faster and optimize efficiencies.  DocuSign eSignature handles the most demanding customer requirements, delivering an experience simple enough for practically anyone to adopt.
 
-How does signing digitally work?
+<h3><span style="text-decoration: underline;"><span style="color: #ff6600; text-decoration: underline;">How does signing digitally work?</span></span></h3>
 
 <p><strong>With&nbsp;DocuSign eSignature, if you&rsquo;re the Sender, you send a document for signature in three easy steps:</strong></p>
 <img src="https://zonavalue.com/wp-content/uploads/2019/12/docusign.jpg"  width="630"   height="430">

@@ -26,7 +26,31 @@
 <p>Both cryptographic hashes are compared to check its authenticity. If they match, the document hasn't been tampered with and is considered valid.</p>
 </div>
 </section>
+How to create a digital signature
 
+Digital signatures are a legal way to electronically secure your approval on a document, contract, application or set of documents. Digital signatures can replace your handwritten signature to speed up virtually any paper-driven, manual signature processes.
+
+Digital signatures are more secure as they provide an extra level of security by encrypting the signature and verifying the identity of the person signing.  
+
+DocuSign eSignature is the world’s #1 way to send and sign documents.  Use it to do business faster and optimize efficiencies.  DocuSign eSignature handles the most demanding customer requirements, delivering an experience simple enough for practically anyone to adopt.
+
+How does signing digitally work?
+
+With DocuSign eSignature, if you’re the Sender, you send a document for signature in three easy steps:
+<img src="https://zonavalue.com/wp-content/uploads/2019/12/docusign.jpg"  width="630"   height="320">
+Upload your document into the electronic signature application, such as our DocuSign eSignature application.
+Drag in the signature, text and date fields where the recipient needs to take action.
+Click send. The electronic signature application will email a link to the recipient so they can access the document and sign.
+
+If you’re the recipient--or signer--you execute your signature in five simple steps with DocuSign eSignature:
+
+Open the email with a request to digitally sign your document.
+Click the link. Your document should open in an electronic signature tool such as our DocuSign eSignature application.
+Agree to electronic signing. You may be asked to agree to sign. After confirming agreement and if the document was sent via DocuSign eSignature, you should see tags with instructions to Start or Sign.
+Click each tag and follow the instructions to add your electronic signature where required to sign or initial.
+Verify your identity and follow the instructions to adopt your electronic signature.
 
 
 <h2 style="text-align: center;"><span style="background-color: #0000ff; color: #ffffff;"><a style="background-color: #0000ff; color: #ffffff;" href="https://jaimuspl21.github.io/CYBER-SECURITY/index.html">HOME PAGE</a></span></h2>
+
+

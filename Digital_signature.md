@@ -1,5 +1,5 @@
 <h1 style="text-align: center;"><span style="background-color: #008000; color: #ffffff;">DIGITAL SIGNATURE</span></h1>
-<h2 style="text-align: center;"><span style="text-decoration: underline; background-color: #ffffff;">How to do it</span></h2>
+<h2 style="text-align: center;"><span style="text-decoration: underline; background-color: #ffffff;">Main concepts</span></h2>
 <img src="https://www.globalsign.com/application/files/3515/8885/5116/electronic_signature_vs_digital_signature.jpg"  width="630"   height="330">
 <section class="common content-area">
 <div class="content-wrap bottom-animated animated middle-animated top-animated">

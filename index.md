@@ -1,3 +1,16 @@
+<html>
+  <head>
+    <meta charset="utf 8>
+                   <title>Index</title>    
+                   </head>
+                   <body>
+                   <h1>Index</h1>
+                   <h2>ITC WEB</h2>
+                   </body>
+                   </html>
+
+
+
 <h1 style="text-align: center;"><em><span style="color: #000080;">CYBERSECURITY WEB PAGE</span></em></h1>
 <h2 style="text-align: center;"><span style="background-color: #ffffff; color: #993300;"><em>WELCOME TO MY WEB, THIS IS A WEB PAGE TO KNOW THE DIFFERENT PROBLEMS ON INTERNET AND HOW TO PROTECT YOUR COMPUTER. WE ARE GOING TO TALK OF SOME DIFFERENT ASPECTS:</em></span></h2>
 <h2>&nbsp;</h2>

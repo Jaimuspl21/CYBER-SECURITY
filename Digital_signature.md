@@ -26,3 +26,7 @@
 <p>Both cryptographic hashes are compared to check its authenticity. If they match, the document hasn't been tampered with and is considered valid.</p>
 </div>
 </section>
+
+
+
+<h2 style="text-align: center;"><span style="background-color: #0000ff; color: #ffffff;"><a style="background-color: #0000ff; color: #ffffff;" href="https://jaimuspl21.github.io/CYBER-SECURITY/index.html">HOME PAGE</a></span></h2>
